@@ -1,0 +1,54 @@
+{
+  "name": "baileys-foxxy",
+  "version": "1.1.0",
+  "description": "Message builder super lengkap buat @whiskeysockets/baileys — button, button v2, table, carousel, poster, fake link preview, fake quoted status, album, contact, location, event, dan lainnya.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "example": "node example/example.js"
+  },
+  "author": {
+    "name": "Wanz"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "baileys",
+    "whatsapp",
+    "wa-bot",
+    "mbuilder",
+    "baileys-mbuilder",
+    "interactive-message",
+    "button",
+    "button-v2",
+    "carousel",
+    "poster",
+    "table",
+    "fake-quoted",
+    "fake-link-preview",
+    "wa-gateway"
+  ],
+  "peerDependencies": {
+    "@whiskeysockets/baileys": "*"
+  },
+  "peerDependenciesMeta": {
+    "@whiskeysockets/baileys": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanz/baileys-foxxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wanz/baileys-foxxy/issues"
+  },
+  "homepage": "https://github.com/Wanz/baileys-foxxy#readme"
+}
